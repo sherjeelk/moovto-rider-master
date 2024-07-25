@@ -507,7 +507,7 @@ AppConstants.API = {
     GET_ADDRESS: 'https://maps.googleapis.com/maps/api/geocode/json?latlng=',
     RIDERS: AppConstants_1.BASE_URL + '/riders'
 };
-AppConstants.API_KEY_MAP = 'AIzaSyAClVfLA3Sforg4j8b7i70_Kp1MGpnNf4k';
+AppConstants.API_KEY_MAP = '';
 AppConstants.IS_LOGGED_IN = false;
 AppConstants.token = '';
 AppConstants.FACEBOOK_ID = '561573537644778';

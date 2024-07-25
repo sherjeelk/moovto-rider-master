@@ -30,7 +30,7 @@ export class AppConstants {
 
 
     };
-    public static API_KEY_MAP = 'AIzaSyAClVfLA3Sforg4j8b7i70_Kp1MGpnNf4k';
+    public static API_KEY_MAP = '';
     public static IS_LOGGED_IN = false;
     public static user;
     public static token = '';
